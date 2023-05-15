@@ -1,4 +1,6 @@
 # Mail-Header-Analysis
+https://www.stellarinfo.com/article/email-header-structure-forensic-analysis.php
+
 Analyzing email headers can provide valuable information for identifying potentially malicious domains
 
 
